@@ -1,0 +1,2 @@
+# SzakdolgozatVoronoi
+Voronoi diagram Szakdolgozat
