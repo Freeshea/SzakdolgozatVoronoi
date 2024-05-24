@@ -134,14 +134,6 @@ public static class Noise
                     }
                 }
                 cellMap[y, x] = (float)closestPointIndex / (numCellPoints - 1);
-                cellMap[y, x] = (float)closestPointIndex / (numCellPoints - 1);
-                cellMap[y, x] = (float)closestPointIndex / (numCellPoints - 1);
-                cellMap[y, x] = (float)closestPointIndex / (numCellPoints - 1);
-                cellMap[y, x] = (float)closestPointIndex / (numCellPoints - 1);
-                cellMap[y, x] = (float)closestPointIndex / (numCellPoints - 1);
-                cellMap[y, x] = (float)closestPointIndex / (numCellPoints - 1);
-                cellMap[y, x] = (float)closestPointIndex / (numCellPoints - 1);
-                cellMap[y, x] = (float)closestPointIndex / (numCellPoints - 1);
             }
         }
         return cellMap;
