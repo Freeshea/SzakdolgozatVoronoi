@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class MeshDeformer :MonoBehaviour
 {
-    public MeshFilter sphereMeshFilter; // Reference to the sphere mesh filter
-    public float displacementAmount = 0.7f; // Adjust this value based on your needs
+    public MeshFilter sphereMeshFilter; 
+    public float displacementAmount = 0.7f; 
     public uint numCellPoints = 2;
 
     List<int> connectedTriangles = new List<int>();
